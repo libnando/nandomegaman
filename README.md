@@ -2,11 +2,11 @@
 
 About me:
 
-- I’m software developer, father, husband, coffee and book lover.
+- I’m web developer (dotnet platform | angular | vue), father, husband, coffee and book lover. ;)
 
 #### Follow me:
 [![Site Badge](https://img.shields.io/badge/-Website%2fBlog-blue?style=flat-square&logo=website&logoColor=white&link=https://libnando.com/)](https://libnando.com/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandomegaman)](https://github.com/nandomegaman)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandomegaman/)](https://www.linkedin.com/in/nandomegaman/)
 
 <p align="justify">
